@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import json
 
 # Ouvre le fichier HTML sauvegardé
-with open("Stats_Royale_english.html", encoding="utf-8") as f:
-    soup = BeautifulSoup(f, "html.parser")
+with open("Stats_Royale_english.html") as file:
+    soup = BeautifulSoup(file, "html.parser")
 
 units_data = []
 
