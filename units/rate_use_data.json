@@ -1,0 +1,607 @@
+[
+  {
+    "name": "the-log",
+    "win_rate": "53.83%",
+    "use_rate": "30.72%"
+  },
+  {
+    "name": "arrows",
+    "win_rate": "55.08%",
+    "use_rate": "28.24%"
+  },
+  {
+    "name": "barbarian-barrel",
+    "win_rate": "58.15%",
+    "use_rate": "23.36%"
+  },
+  {
+    "name": "fireball",
+    "win_rate": "55.64%",
+    "use_rate": "19.36%"
+  },
+  {
+    "name": "skeletons",
+    "win_rate": "53.80%",
+    "use_rate": "17.68%"
+  },
+  {
+    "name": "goblin-gang",
+    "win_rate": "54.98%",
+    "use_rate": "15.84%"
+  },
+  {
+    "name": "hog-rider",
+    "win_rate": "52.40%",
+    "use_rate": "15.44%"
+  },
+  {
+    "name": "ice-spirit",
+    "win_rate": "53.12%",
+    "use_rate": "14.24%"
+  },
+  {
+    "name": "tornado",
+    "win_rate": "56.76%",
+    "use_rate": "12.56%"
+  },
+  {
+    "name": "poison",
+    "win_rate": "55.25%",
+    "use_rate": "11.84%"
+  },
+  {
+    "name": "zap",
+    "win_rate": "54.59%",
+    "use_rate": "11.60%"
+  },
+  {
+    "name": "vines",
+    "win_rate": "55.71%",
+    "use_rate": "10.88%"
+  },
+  {
+    "name": "electro-spirit",
+    "win_rate": "56.43%",
+    "use_rate": "10.64%"
+  },
+  {
+    "name": "electro-wizard",
+    "win_rate": "56.02%",
+    "use_rate": "10.24%"
+  },
+  {
+    "name": "miner",
+    "win_rate": "54.52%",
+    "use_rate": "9.84%"
+  },
+  {
+    "name": "lightning",
+    "win_rate": "57.09%",
+    "use_rate": "9.84%"
+  },
+  {
+    "name": "minions",
+    "win_rate": "56.80%",
+    "use_rate": "9.68%"
+  },
+  {
+    "name": "mini-pekka",
+    "win_rate": "54.67%",
+    "use_rate": "9.60%"
+  },
+  {
+    "name": "balloon",
+    "win_rate": "57.01%",
+    "use_rate": "8.80%"
+  },
+  {
+    "name": "dart-goblin",
+    "win_rate": "54.51%",
+    "use_rate": "8.48%"
+  },
+  {
+    "name": "knight",
+    "win_rate": "53.04%",
+    "use_rate": "7.76%"
+  },
+  {
+    "name": "guards",
+    "win_rate": "55.31%",
+    "use_rate": "7.68%"
+  },
+  {
+    "name": "bandit",
+    "win_rate": "56.74%",
+    "use_rate": "7.28%"
+  },
+  {
+    "name": "goblin-hut",
+    "win_rate": "56.87%",
+    "use_rate": "7.20%"
+  },
+  {
+    "name": "ice-wizard",
+    "win_rate": "55.83%",
+    "use_rate": "6.96%"
+  },
+  {
+    "name": "skeleton-king",
+    "win_rate": "56.49%",
+    "use_rate": "6.80%"
+  },
+  {
+    "name": "prince",
+    "win_rate": "54.88%",
+    "use_rate": "6.40%"
+  },
+  {
+    "name": "princess",
+    "win_rate": "54.19%",
+    "use_rate": "6.16%"
+  },
+  {
+    "name": "bats",
+    "win_rate": "51.62%",
+    "use_rate": "6.08%"
+  },
+  {
+    "name": "fisherman",
+    "win_rate": "57.99%",
+    "use_rate": "6.00%"
+  },
+  {
+    "name": "cannon",
+    "win_rate": "53.86%",
+    "use_rate": "5.92%"
+  },
+  {
+    "name": "royal-ghost",
+    "win_rate": "55.19%",
+    "use_rate": "5.52%"
+  },
+  {
+    "name": "golem",
+    "win_rate": "58.06%",
+    "use_rate": "5.44%"
+  },
+  {
+    "name": "zappies",
+    "win_rate": "59.10%",
+    "use_rate": "5.44%"
+  },
+  {
+    "name": "berserker",
+    "win_rate": "55.46%",
+    "use_rate": "5.44%"
+  },
+  {
+    "name": "graveyard",
+    "win_rate": "56.95%",
+    "use_rate": "5.36%"
+  },
+  {
+    "name": "skeleton-army",
+    "win_rate": "51.73%",
+    "use_rate": "5.28%"
+  },
+  {
+    "name": "royal-hogs",
+    "win_rate": "57.76%",
+    "use_rate": "5.28%"
+  },
+  {
+    "name": "rage",
+    "win_rate": "54.95%",
+    "use_rate": "5.20%"
+  },
+  {
+    "name": "rocket",
+    "win_rate": "51.10%",
+    "use_rate": "5.04%"
+  },
+  {
+    "name": "earthquake",
+    "win_rate": "53.88%",
+    "use_rate": "4.88%"
+  },
+  {
+    "name": "bowler",
+    "win_rate": "58.50%",
+    "use_rate": "4.64%"
+  },
+  {
+    "name": "ice-golem",
+    "win_rate": "54.39%",
+    "use_rate": "4.56%"
+  },
+  {
+    "name": "dark-prince",
+    "win_rate": "57.16%",
+    "use_rate": "4.48%"
+  },
+  {
+    "name": "mighty-miner",
+    "win_rate": "53.37%",
+    "use_rate": "4.40%"
+  },
+  {
+    "name": "wall-breakers",
+    "win_rate": "55.41%",
+    "use_rate": "4.32%"
+  },
+  {
+    "name": "mother-witch",
+    "win_rate": "58.05%",
+    "use_rate": "4.32%"
+  },
+  {
+    "name": "flying-machine",
+    "win_rate": "57.44%",
+    "use_rate": "4.24%"
+  },
+  {
+    "name": "archer-queen",
+    "win_rate": "54.60%",
+    "use_rate": "4.24%"
+  },
+  {
+    "name": "inferno-tower",
+    "win_rate": "51.73%",
+    "use_rate": "4.24%"
+  },
+  {
+    "name": "pekka",
+    "win_rate": "56.03%",
+    "use_rate": "4.16%"
+  },
+  {
+    "name": "golden-knight",
+    "win_rate": "55.45%",
+    "use_rate": "4.16%"
+  },
+  {
+    "name": "musketeer",
+    "win_rate": "52.67%",
+    "use_rate": "4.00%"
+  },
+  {
+    "name": "cannon-cart",
+    "win_rate": "59.59%",
+    "use_rate": "3.92%"
+  },
+  {
+    "name": "goblin-barrel",
+    "win_rate": "49.94%",
+    "use_rate": "3.92%"
+  },
+  {
+    "name": "skeleton-barrel",
+    "win_rate": "52.24%",
+    "use_rate": "3.84%"
+  },
+  {
+    "name": "boss-bandit",
+    "win_rate": "53.07%",
+    "use_rate": "3.68%"
+  },
+  {
+    "name": "tesla",
+    "win_rate": "51.92%",
+    "use_rate": "3.60%"
+  },
+  {
+    "name": "elixir-collector",
+    "win_rate": "57.40%",
+    "use_rate": "3.60%"
+  },
+  {
+    "name": "mega-minion",
+    "win_rate": "58.00%",
+    "use_rate": "3.44%"
+  },
+  {
+    "name": "sparky",
+    "win_rate": "56.70%",
+    "use_rate": "3.28%"
+  },
+  {
+    "name": "giant",
+    "win_rate": "57.18%",
+    "use_rate": "3.20%"
+  },
+  {
+    "name": "inferno-dragon",
+    "win_rate": "54.14%",
+    "use_rate": "3.20%"
+  },
+  {
+    "name": "lumberjack",
+    "win_rate": "55.05%",
+    "use_rate": "3.12%"
+  },
+  {
+    "name": "freeze",
+    "win_rate": "56.99%",
+    "use_rate": "3.12%"
+  },
+  {
+    "name": "night-witch",
+    "win_rate": "56.83%",
+    "use_rate": "3.04%"
+  },
+  {
+    "name": "firecracker",
+    "win_rate": "50.67%",
+    "use_rate": "3.04%"
+  },
+  {
+    "name": "royal-delivery",
+    "win_rate": "51.30%",
+    "use_rate": "3.04%"
+  },
+  {
+    "name": "lava-hound",
+    "win_rate": "58.36%",
+    "use_rate": "2.96%"
+  },
+  {
+    "name": "magic-archer",
+    "win_rate": "54.38%",
+    "use_rate": "2.96%"
+  },
+  {
+    "name": "x-bow",
+    "win_rate": "54.46%",
+    "use_rate": "2.96%"
+  },
+  {
+    "name": "tombstone",
+    "win_rate": "57.69%",
+    "use_rate": "2.96%"
+  },
+  {
+    "name": "valkyrie",
+    "win_rate": "51.80%",
+    "use_rate": "2.88%"
+  },
+  {
+    "name": "giant-skeleton",
+    "win_rate": "57.19%",
+    "use_rate": "2.88%"
+  },
+  {
+    "name": "ram-rider",
+    "win_rate": "53.97%",
+    "use_rate": "2.80%"
+  },
+  {
+    "name": "giant-snowball",
+    "win_rate": "55.68%",
+    "use_rate": "2.72%"
+  },
+  {
+    "name": "elixir-golem",
+    "win_rate": "53.77%",
+    "use_rate": "2.64%"
+  },
+  {
+    "name": "fire-spirit",
+    "win_rate": "51.96%",
+    "use_rate": "2.56%"
+  },
+  {
+    "name": "furnace",
+    "win_rate": "51.99%",
+    "use_rate": "2.40%"
+  },
+  {
+    "name": "baby-dragon",
+    "win_rate": "56.54%",
+    "use_rate": "2.32%"
+  },
+  {
+    "name": "spear-goblins",
+    "win_rate": "53.91%",
+    "use_rate": "2.24%"
+  },
+  {
+    "name": "minion-horde",
+    "win_rate": "54.08%",
+    "use_rate": "2.16%"
+  },
+  {
+    "name": "electro-giant",
+    "win_rate": "58.43%",
+    "use_rate": "2.16%"
+  },
+  {
+    "name": "bomb-tower",
+    "win_rate": "56.66%",
+    "use_rate": "2.16%"
+  },
+  {
+    "name": "goblin-drill",
+    "win_rate": "49.92%",
+    "use_rate": "2.16%"
+  },
+  {
+    "name": "elite-barbarians",
+    "win_rate": "53.01%",
+    "use_rate": "2.08%"
+  },
+  {
+    "name": "battle-healer",
+    "win_rate": "55.74%",
+    "use_rate": "2.08%"
+  },
+  {
+    "name": "skeleton-dragons",
+    "win_rate": "58.97%",
+    "use_rate": "2.08%"
+  },
+  {
+    "name": "goblins",
+    "win_rate": "55.06%",
+    "use_rate": "1.92%"
+  },
+  {
+    "name": "witch",
+    "win_rate": "49.92%",
+    "use_rate": "1.92%"
+  },
+  {
+    "name": "mega-knight",
+    "win_rate": "51.48%",
+    "use_rate": "1.84%"
+  },
+  {
+    "name": "monk",
+    "win_rate": "54.88%",
+    "use_rate": "1.84%"
+  },
+  {
+    "name": "suspicious-bush",
+    "win_rate": "53.34%",
+    "use_rate": "1.76%"
+  },
+  {
+    "name": "spirit-empress",
+    "win_rate": "56.50%",
+    "use_rate": "1.68%"
+  },
+  {
+    "name": "bomber",
+    "win_rate": "54.04%",
+    "use_rate": "1.60%"
+  },
+  {
+    "name": "battle-ram",
+    "win_rate": "56.52%",
+    "use_rate": "1.60%"
+  },
+  {
+    "name": "rascals",
+    "win_rate": "60.02%",
+    "use_rate": "1.60%"
+  },
+  {
+    "name": "goblin-curse",
+    "win_rate": "54.58%",
+    "use_rate": "1.60%"
+  },
+  {
+    "name": "mirror",
+    "win_rate": "48.09%",
+    "use_rate": "1.52%"
+  },
+  {
+    "name": "hunter",
+    "win_rate": "54.88%",
+    "use_rate": "1.44%"
+  },
+  {
+    "name": "little-prince",
+    "win_rate": "52.65%",
+    "use_rate": "1.44%"
+  },
+  {
+    "name": "goblinstein",
+    "win_rate": "56.75%",
+    "use_rate": "1.36%"
+  },
+  {
+    "name": "heal-spirit",
+    "win_rate": "59.10%",
+    "use_rate": "1.36%"
+  },
+  {
+    "name": "wizard",
+    "win_rate": "47.65%",
+    "use_rate": "1.28%"
+  },
+  {
+    "name": "royal-giant",
+    "win_rate": "57.00%",
+    "use_rate": "1.28%"
+  },
+  {
+    "name": "goblin-cage",
+    "win_rate": "56.90%",
+    "use_rate": "1.04%"
+  },
+  {
+    "name": "royal-recruits",
+    "win_rate": "53.48%",
+    "use_rate": "0.96%"
+  },
+  {
+    "name": "three-musketeers",
+    "win_rate": "56.90%",
+    "use_rate": "0.88%"
+  },
+  {
+    "name": "executioner",
+    "win_rate": "52.34%",
+    "use_rate": "0.88%"
+  },
+  {
+    "name": "clone",
+    "win_rate": "51.42%",
+    "use_rate": "0.88%"
+  },
+  {
+    "name": "goblin-machine",
+    "win_rate": "50.77%",
+    "use_rate": "0.80%"
+  },
+  {
+    "name": "phoenix",
+    "win_rate": "54.67%",
+    "use_rate": "0.64%"
+  },
+  {
+    "name": "goblin-demolisher",
+    "win_rate": "52.97%",
+    "use_rate": "0.64%"
+  },
+  {
+    "name": "archers",
+    "win_rate": "51.99%",
+    "use_rate": "0.56%"
+  },
+  {
+    "name": "barbarians",
+    "win_rate": "54.47%",
+    "use_rate": "0.56%"
+  },
+  {
+    "name": "void",
+    "win_rate": "53.56%",
+    "use_rate": "0.48%"
+  },
+  {
+    "name": "goblin-giant",
+    "win_rate": "45.35%",
+    "use_rate": "0.24%"
+  },
+  {
+    "name": "mortar",
+    "win_rate": "48.08%",
+    "use_rate": "0.24%"
+  },
+  {
+    "name": "electro-dragon",
+    "win_rate": "47.75%",
+    "use_rate": "0.16%"
+  },
+  {
+    "name": "rune-giant",
+    "win_rate": "42.56%",
+    "use_rate": "0.08%"
+  },
+  {
+    "name": "barbarian-hut",
+    "win_rate": "51.46%",
+    "use_rate": "0.08%"
+  }
+]

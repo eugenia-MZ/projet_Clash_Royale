@@ -1,0 +1,134 @@
+[
+  {
+    "unit1": "archers",
+    "unit2": "tesla",
+    "unit3": "x-bow",
+    "unit4": "knight",
+    "unit5": "skeletons",
+    "unit6": "electro-spirit",
+    "unit7": "fireball",
+    "unit8": "the-log",
+    "elixir_moyen": 3.67
+  },
+  {
+    "unit1": "knight",
+    "unit2": "furnace",
+    "unit3": "graveyard",
+    "unit4": "berserker",
+    "unit5": "ice-spirit",
+    "unit6": "goblin-hut",
+    "unit7": "poison",
+    "unit8": "barbarian-barrel",
+    "elixir_moyen": 3.67
+  },
+  {
+    "unit1": "mortar",
+    "unit2": "skeleton-barrel",
+    "unit3": "cannon-cart",
+    "unit4": "berserker",
+    "unit5": "ice-wizard",
+    "unit6": "goblin-gang",
+    "unit7": "fireball",
+    "unit8": "barbarian-barrel",
+    "elixir_moyen": 3.43
+  },
+  {
+    "unit1": "knight",
+    "unit2": "witch",
+    "unit3": "graveyard",
+    "unit4": "ice-wizard",
+    "unit5": "goblin-hut",
+    "unit6": "vines",
+    "unit7": "poison",
+    "unit8": "barbarian-barrel",
+    "elixir_moyen": 3.62
+  },
+  {
+    "unit1": "goblin-giant",
+    "unit2": "witch",
+    "unit3": "goblin-machine",
+    "unit4": "mini-pekka",
+    "unit5": "minions",
+    "unit6": "rage",
+    "unit7": "vines",
+    "unit8": "barbarian-barrel",
+    "elixir_moyen": 3.71
+  },
+  {
+    "unit1": "goblin-barrel",
+    "unit2": "dart-goblin",
+    "unit3": "knight",
+    "unit4": "princess",
+    "unit5": "goblin-gang",
+    "unit6": "ice-spirit",
+    "unit7": "cannon",
+    "unit8": "the-log",
+    "elixir_moyen": 2.86
+  },
+  {
+    "unit1": "royal-recruits",
+    "unit2": "royal-hogs",
+    "unit3": "zappies",
+    "unit4": "flying-machine",
+    "unit5": "goblin-cage",
+    "unit6": "fireball",
+    "unit7": "arrows",
+    "unit8": "barbarian-barrel",
+    "elixir_moyen": 3.71
+  },
+  {
+    "unit1": "musketeer",
+    "unit2": "skeletons",
+    "unit3": "balloon",
+    "unit4": "miner",
+    "unit5": "ice-golem",
+    "unit6": "bomb-tower",
+    "unit7": "barbarian-barrel",
+    "unit8": "giant-snowball",
+    "elixir_moyen": 3.14
+  },
+  {
+    "unit1": "goblin-giant",
+    "unit2": "zap",
+    "unit3": "elite-barbarians",
+    "unit4": "sparky",
+    "unit5": "dark-prince",
+    "unit6": "electro-wizard",
+    "unit7": "heal-spirit",
+    "unit8": "rage",
+    "elixir_moyen": 4.0
+  },
+  {
+    "unit1": "royal-recruits",
+    "unit2": "goblin-cage",
+    "unit3": "royal-hogs",
+    "unit4": "zappies",
+    "unit5": "flying-machine",
+    "unit6": "fireball",
+    "unit7": "arrows",
+    "unit8": "barbarian-barrel",
+    "elixir_moyen": 3.71
+  },
+  {
+    "unit1": "goblin-barrel",
+    "unit2": "valkyrie",
+    "unit3": "wall-breakers",
+    "unit4": "princess",
+    "unit5": "dart-goblin",
+    "unit6": "goblin-gang",
+    "unit7": "ice-spirit",
+    "unit8": "cannon",
+    "elixir_moyen": 3.0
+  },
+  {
+    "unit1": "royal-recruits",
+    "unit2": "goblin-cage",
+    "unit3": "royal-hogs",
+    "unit4": "zappies",
+    "unit5": "flying-machine",
+    "unit6": "electro-spirit",
+    "unit7": "arrows",
+    "unit8": "barbarian-barrel",
+    "elixir_moyen": 3.67
+  }
+]

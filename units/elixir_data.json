@@ -1,0 +1,171 @@
+[
+  {
+    "elixir": "1",
+    "units": [
+      "skeletons",
+      "electro-spirit",
+      "fire-spirit",
+      "ice-spirit",
+      "heal-spirit"
+    ]
+  },
+  {
+    "elixir": "2",
+    "units": [
+      "goblins",
+      "spear-goblins",
+      "bomber",
+      "bats",
+      "zap",
+      "giant-snowball",
+      "berserker",
+      "ice-golem",
+      "suspicious-bush",
+      "barbarian-barrel",
+      "wall-breakers",
+      "goblin-curse",
+      "rage",
+      "the-log"
+    ]
+  },
+  {
+    "elixir": "3",
+    "units": [
+      "archers",
+      "arrows",
+      "knight",
+      "minions",
+      "cannon",
+      "goblin-gang",
+      "skeleton-barrel",
+      "firecracker",
+      "royal-delivery",
+      "tombstone",
+      "mega-minion",
+      "dart-goblin",
+      "earthquake",
+      "elixir-golem",
+      "goblin-barrel",
+      "guards",
+      "skeleton-army",
+      "vines",
+      "clone",
+      "tornado",
+      "void",
+      "miner",
+      "princess",
+      "ice-wizard",
+      "royal-ghost",
+      "bandit",
+      "fisherman",
+      "little-prince"
+    ]
+  },
+  {
+    "elixir": "4",
+    "units": [
+      "skeleton-dragons",
+      "mortar",
+      "tesla",
+      "fireball",
+      "mini-pekka",
+      "musketeer",
+      "goblin-cage",
+      "goblin-hut",
+      "valkyrie",
+      "battle-ram",
+      "bomb-tower",
+      "flying-machine",
+      "hog-rider",
+      "battle-healer",
+      "furnace",
+      "zappies",
+      "goblin-demolisher",
+      "baby-dragon",
+      "dark-prince",
+      "freeze",
+      "poison",
+      "rune-giant",
+      "hunter",
+      "goblin-drill",
+      "electro-wizard",
+      "inferno-dragon",
+      "phoenix",
+      "magic-archer",
+      "lumberjack",
+      "night-witch",
+      "mother-witch",
+      "golden-knight",
+      "skeleton-king",
+      "mighty-miner"
+    ]
+  },
+  {
+    "elixir": "5",
+    "units": [
+      "barbarians",
+      "minion-horde",
+      "rascals",
+      "giant",
+      "inferno-tower",
+      "wizard",
+      "royal-hogs",
+      "witch",
+      "balloon",
+      "prince",
+      "electro-dragon",
+      "bowler",
+      "executioner",
+      "cannon-cart",
+      "ram-rider",
+      "graveyard",
+      "goblin-machine",
+      "archer-queen",
+      "goblinstein",
+      "monk"
+    ]
+  },
+  {
+    "elixir": "6",
+    "units": [
+      "royal-giant",
+      "elite-barbarians",
+      "rocket",
+      "barbarian-hut",
+      "elixir-collector",
+      "giant-skeleton",
+      "lightning",
+      "goblin-giant",
+      "x-bow",
+      "sparky",
+      "spirit-empress",
+      "boss-bandit"
+    ]
+  },
+  {
+    "elixir": "7",
+    "units": [
+      "royal-recruits",
+      "pekka",
+      "electro-giant",
+      "mega-knight",
+      "lava-hound"
+    ]
+  },
+  {
+    "elixir": "8",
+    "units": [
+      "golem"
+    ]
+  },
+  {
+    "elixir": "9",
+    "units": [
+      "three-musketeers"
+    ]
+  },
+  {
+    "elixir": "10",
+    "units": []
+  }
+]
